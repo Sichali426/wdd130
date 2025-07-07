@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laston James Sichali | WDD 130</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="#">Home</a>
+            <a href="wwr/">Rafting Website</a>
+        </nav>
+    </header>
+    <main>
+        <h1>Laston James Sichali | WDD 130</h1>
+        <img src="images/profile.jpg" alt="Profile picture of Laston James Sichali" width="200">
+        <p>Hello! I'm Laston James Sichali from Karonga, Malawi. I'm passionate about web development and excited to learn more through this course. In my free time, I enjoy exploring new technologies and contributing to my community.</p>
+    </main>
+    <footer>
+        <p>©2025 | Laston James Sichali | Karonga, Malawi 🇲🇼</p>
+    </footer>
+</body>
+</html>
